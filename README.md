@@ -2,8 +2,6 @@
 
   $ ('Mass-Radius relationship Non parametric Exoplanets') $
 
-  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3306969.svg)](https://doi.org/10.5281/zenodo.3306969)
 
 
 [MRExo]('https://github.com/suhassangangire/Cluster--Galaxy--Scattering--MREXO.git') is a Python script for non-parametric fitting and analysis of the Mass-Radius (M-R) relationship for exoplanets.
@@ -13,7 +11,7 @@ set.  Along with the `MRExo` installation, the fit results from the M dwarf samp
 exoplanet sample from  Ning et al. (2018) are included. 
 The code also includes **predicting functions** (M->R, and R->M), and **plotting** functions to generate the plots used in the below preprint.
 
-For detailed description of the code please see [Sangangire S et al. (2021)]
+For detailed description of the code please see [Sangangire S et al. (2020)]
 
 
 ==================
